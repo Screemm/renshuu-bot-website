@@ -19,8 +19,8 @@ UNDER CONSTRUCTION
 
 | # | Title | Description | Status |
 | --- | --- | --- | --- |
-| [1](https://github.com/Screemm/Renshuu/issues/1) | Profile command updating | Currently only uses my API key. Update this to use the person who executes the command. | Backlog |
-| [2](https://github.com/Screemm/Renshuu/issues/2) | key remove not working | he buttons for this command return "This interaction failed!". Proposed change: change this to a modal and require the user to type "confirm" or "cancel". | Up Next |
+| [1](https://github.com/Screemm/Renshuu/issues/1) | Profile command updating | Currently only uses my API key. Update this to use the person who executes the command. | Up Next |
+| [2](https://github.com/Screemm/Renshuu/issues/2) | key remove not working | he buttons for this command return "This interaction failed!". Proposed change: change this to a modal and require the user to type "confirm" or "cancel". | Completed |
 
 ## Getting your API key
 
