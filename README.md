@@ -19,8 +19,10 @@ UNDER CONSTRUCTION
 
 | # | Title | Description | Status |
 | --- | --- | --- | --- |
-| [1](https://github.com/Screemm/Renshuu/issues/1) | Profile command updating | Currently only uses my API key. Update this to use the person who executes the command. | Up Next |
+| [1](https://github.com/Screemm/Renshuu/issues/1) | Profile command updating | Currently only uses my API key. Update this to use the person who executes the command. | Completed |
 | [2](https://github.com/Screemm/Renshuu/issues/2) | key remove not working | he buttons for this command return "This interaction failed!". Proposed change: change this to a modal and require the user to type "confirm" or "cancel". | Completed |
+| [5](https://github.com/Screemm/Renshuu/issues/5) | Study graph | Generate something similar to the GitHub commit graph to show how much someone has studied in the last 365 days. | Up Next |
+| [6](https://github.com/Screemm/Renshuu/issues/6) | More stats | MORE!!! | Backlog |
 
 ## Getting your API key
 
